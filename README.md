@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm parksben</h1>
-<h3 align="center">A frontend developer from China</h3>
+<h3 align="center">A front-end engineer engaged in data visualization development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parksben" alt="parksben" /> </p>
 
